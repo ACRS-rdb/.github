@@ -1,6 +1,8 @@
 # 🛠️ ACRS@NTUT | 自動控制研究社  
 **Automation & Control Research Society @ NTUT**
 
+> A student-led research community focused on long-term system engineering.
+
 > 「我們不想只為了比賽拚命一次，我們想在這裡玩技術一輩子。」
 
 ---
@@ -94,6 +96,29 @@ ACRS 是一個以 **研究導向 × 實作導向 × 技術傳承** 為核心的�
 
 
 --- 
+
+## 🔭 技術發展藍圖｜From Control to Systems
+
+ACRS 並不將技術視為零散的專案，而是視為一條可累積、可擴展的系統工程路徑。
+
+我們選擇**從自動控制出發**，逐步走向更高複雜度的系統：
+
+- **自動控制（Control Systems）**  
+  作為核心基礎，建立系統建模、控制理論、模擬與實驗驗證能力。
+
+- **機器人系統（Robotics）**  
+  將控制理論落實於多自由度系統，整合感測、致動、規劃與軟硬體架構。
+
+- **無人系統（Unmanned Aerial / Mobile Systems）**  
+  延伸至高動態、非線性與即時性要求更高的系統，如無人機與自主移動平台。
+
+- **海事與航太系統（Marine & Aerospace Systems）**  
+  以長期視角探索水下系統、潛艇與火箭等高風險、高門檻之複雜控制問題。
+
+我們不急著一次做到終點，而是**確保每一個階段都能留下可重現、可傳承的技術成果**，
+讓後來的成員能站在前人的基礎上，繼續往更遠的系統前進。
+
+---
 
 ## 👋 加入我們｜Join Us 
 
