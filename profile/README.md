@@ -1,6 +1,6 @@
 <center>
 
-中文 | [English](https://github.com/ACRS-rdb/.github/tree/main/profile/README_EN.md)
+中文 | [English](https://github.com/ACRS-rdb/.github/tree/main/profile/README-EN.md)
 
 </center>
 
