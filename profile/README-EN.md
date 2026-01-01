@@ -136,7 +136,7 @@ ACRS is your laboratory.
 External collaborators are also welcome to engage through **affiliate or collaborator roles**.
 
 - **Membership Fee**: NT$ 1000 (one-time)  
-- **Base**: To be determined  
+- **Base**: National Taipei University of Technology Main Campus
 
 ---
 
